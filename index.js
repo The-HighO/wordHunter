@@ -1,147 +1,148 @@
 // Array of words and hints 
 // const wordList = [
-//     {
-//       word: "javascript",
-//       hint: "A popular programming language used for web development.",
-//     },
-//     {
-//       word: "twitter",
-//       hint: "A well-known social media platform for  bants.",
-//     },
-//     {
-//       word: "earth",
-//       hint: "planet of our solar system",
-//     },
-//     {
-//       word: "gold",
-//       hint: "A precious metal with a yellow color often used in jewelry.",
-//     },
-//     {
-//       word: "jumia",
-//       hint: "An online shopping site popular in Africa.",
-//     },
-//     {
-//       word: "coding",
-//       hint: "The process of creating computer programs using programming languages.",
-//     },
-//     {
-//       word: "bugs",
-//       hint: "Issues or errors in a computer program that aka beans.",
-//     },
-//     {
-//       word: "jola",
-//       hint: "says: sorry for the laugh",
-//     },
-//     {
-//       word: "ayodeji",
-//       hint: "Team Intel Manager",
-//     },
-//     {
-//       word: "bolanle",
-//       hint: "Peper Reina",
-//     },
-//     {
-//       word: "shakur",
-//       hint: "member of the group",
-//     },
-//     {
-//       word: "abiola",
-//       hint: "Abibi",
-//     },
-//     {
-//       word: "ibrahim",
-//       hint: "Team Lead",
-//     },
-//     {
-//       word: "chess",
-//       hint: "A strategic board game played between two players.",
-//     },
-//     {
-//       word: "github",
-//       hint: "code hosting platform",
-//     },
-//     {
-//       word: "png",
-//       hint: "a image file format",
-//     },
-//     {
-//       word: "iphone",
-//       hint: "A popular smartphone",
-//     },
-//     {
-//       word: "java",
-//       hint: "A versatile programming language used for various applications.",
-//     },
-//     {
-//       word: "google",
-//       hint: "famous search engine",
-//     },
-//     {
-//       word: "phillip",
-//       hint: "facilitator that says: do you understand?",
-//     },
-//     {
-//       word: "sail",
-//       hint: "a tech facility in ikorodu",
-//     },
-//     {
-//       word: "flute",
-//       hint: "a musical instrument",
-//     },
-//     {
-//       word: "bitcoin",
-//       hint: "related to cryptocurrency",
-//     },
-//     {
-//       word: "matthew",
-//       hint: "sail facilitator",
-//     },
-//     {
-//       word: "john",
-//       hint: "sail facilitator",
-//     },
-//     {
-//       word: "email",
-//       hint: "related to exchanging message",
-//     },
-//     {
-//       word: "html",
-//       hint: "markup language for the web",
-//     },
-//     {
-//       word: "air",
-//       hint: "The invisible gaseous substance surrounding the Earth.",
-//     },
-//     {
-//       word: "idea",
-//       hint: "a thought or suggestion",
-//     },
-//     {
-//       word: "server",
-//       hint: "related to computer or system",
-//     },
-//     {
-//       word: "jpeg",
-//       hint: "a image file format",
-//     },
-//     {
-//       word: "search",
-//       hint: "act to find something",
-//     },
-//     {
-//       word: "nigeria",
-//       hint: "Agbado country",
-//     },
-//     {
-//       word: "naija",
-//       hint: "developed country name",
-//     },
-//     {
-//       word: "photo",
-//       hint: "representation of person or scene",
-//     },
+//    
 //   ];
 const wordList = [
+   {
+      word: "javascript",
+      hint: "A popular programming language used for web development.",
+    },
+    {
+      word: "twitter",
+      hint: "A well-known social media platform for  bants.",
+    },
+    {
+      word: "earth",
+      hint: "planet of our solar system",
+    },
+    {
+      word: "gold",
+      hint: "A precious metal with a yellow color often used in jewelry.",
+    },
+    {
+      word: "jumia",
+      hint: "An online shopping site popular in Africa.",
+    },
+    {
+      word: "coding",
+      hint: "The process of creating computer programs using programming languages.",
+    },
+    {
+      word: "bugs",
+      hint: "Issues or errors in a computer program that aka beans.",
+    },
+    {
+      word: "jola",
+      hint: "says: sorry for the laugh",
+    },
+    {
+      word: "ayodeji",
+      hint: "Team Intel Manager",
+    },
+    {
+      word: "bolanle",
+      hint: "Peper Reina",
+    },
+    {
+      word: "shakur",
+      hint: "member of the group",
+    },
+    {
+      word: "abiola",
+      hint: "Abibi",
+    },
+    {
+      word: "ibrahim",
+      hint: "Team Lead",
+    },
+    {
+      word: "chess",
+      hint: "A strategic board game played between two players.",
+    },
+    {
+      word: "github",
+      hint: "code hosting platform",
+    },
+    {
+      word: "png",
+      hint: "a image file format",
+    },
+    {
+      word: "iphone",
+      hint: "A popular smartphone",
+    },
+    {
+      word: "java",
+      hint: "A versatile programming language used for various applications.",
+    },
+    {
+      word: "google",
+      hint: "famous search engine",
+    },
+    {
+      word: "phillip",
+      hint: "facilitator that says: do you understand?",
+    },
+    {
+      word: "sail",
+      hint: "a tech facility in ikorodu",
+    },
+    {
+      word: "flute",
+      hint: "a musical instrument",
+    },
+    {
+      word: "bitcoin",
+      hint: "related to cryptocurrency",
+    },
+    {
+      word: "matthew",
+      hint: "sail facilitator",
+    },
+    {
+      word: "john",
+      hint: "sail facilitator",
+    },
+    {
+      word: "email",
+      hint: "related to exchanging message",
+    },
+    {
+      word: "html",
+      hint: "markup language for the web",
+    },
+    {
+      word: "air",
+      hint: "The invisible gaseous substance surrounding the Earth.",
+    },
+    {
+      word: "idea",
+      hint: "a thought or suggestion",
+    },
+    {
+      word: "server",
+      hint: "related to computer or system",
+    },
+    {
+      word: "jpeg",
+      hint: "a image file format",
+    },
+    {
+      word: "search",
+      hint: "act to find something",
+    },
+    {
+      word: "nigeria",
+      hint: "Agbado country",
+    },
+    {
+      word: "naija",
+      hint: "developed country name",
+    },
+    {
+      word: "photo",
+      hint: "representation of person or scene",
+    },
   {
     word: "magnificent",
     hint: "An impressive and awe-inspiring word that describes something grand."
