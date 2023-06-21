@@ -11,7 +11,7 @@ const wordList = [
     },
     {
       word: "earth",
-      hint: "planet of our solar system",
+      hint: "Planet of our solar system",
     },
     {
       word: "gold",
@@ -35,11 +35,11 @@ const wordList = [
     },
     {
       word: "github",
-      hint: "code hosting platform",
+      hint: "Code hosting platform",
     },
     {
       word: "png",
-      hint: "a image file format",
+      hint: "A image file format",
     },
     {
       word: "iphone",
@@ -51,39 +51,39 @@ const wordList = [
     },
     {
       word: "google",
-      hint: "famous search engine",
+      hint: "Famous search engine",
     },
     {
       word: "phillip",
-      hint: "facilitator that says: do you understand?",
+      hint: "Facilitator that says: do you understand?",
     },
     {
       word: "sail",
-      hint: "a tech facility in ikorodu",
+      hint: "A tech facility in ikorodu",
     },
     {
       word: "flute",
-      hint: "a musical instrument",
+      hint: "A musical instrument",
     },
     {
       word: "bitcoin",
-      hint: "related to cryptocurrency",
+      hint: "Related to cryptocurrency",
     },
     {
       word: "matthew",
-      hint: "sail facilitator",
+      hint: "Sail facilitator",
     },
     {
       word: "john",
-      hint: "sail facilitator",
+      hint: "Sail facilitator",
     },
     {
       word: "email",
-      hint: "related to exchanging message",
+      hint: "Related to exchanging message",
     },
     {
       word: "html",
-      hint: "markup language for the web",
+      hint: "Markup language for the web",
     },
     {
       word: "air",
@@ -95,19 +95,19 @@ const wordList = [
     },
     {
       word: "server",
-      hint: "related to computer or system",
+      hint: "Related to computer or system",
     },
     {
       word: "jpeg",
-      hint: "a image file format",
+      hint: "A image file format",
     },
     {
       word: "search",
-      hint: "act to find something",
+      hint: "Act to find something",
     },
     {
       word: "photo",
-      hint: "representation of person or scene",
+      hint: "Representation of person or scene",
     },
   {
     word: "magnificent",
