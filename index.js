@@ -1,7 +1,5 @@
 // Array of words and hints 
-// const wordList = [
-//    
-//   ];
+
 const wordList = [
    {
       word: "javascript",
@@ -30,30 +28,6 @@ const wordList = [
     {
       word: "bugs",
       hint: "Issues or errors in a computer program that aka beans.",
-    },
-    {
-      word: "jola",
-      hint: "says: sorry for the laugh",
-    },
-    {
-      word: "ayodeji",
-      hint: "Team Intel Manager",
-    },
-    {
-      word: "bolanle",
-      hint: "Peper Reina",
-    },
-    {
-      word: "shakur",
-      hint: "member of the group",
-    },
-    {
-      word: "abiola",
-      hint: "Abibi",
-    },
-    {
-      word: "ibrahim",
-      hint: "Team Lead",
     },
     {
       word: "chess",
@@ -130,14 +104,6 @@ const wordList = [
     {
       word: "search",
       hint: "act to find something",
-    },
-    {
-      word: "nigeria",
-      hint: "Agbado country",
-    },
-    {
-      word: "naija",
-      hint: "developed country name",
     },
     {
       word: "photo",
